@@ -1,0 +1,14 @@
+plugins {
+    id "java"
+    id "application"
+}
+
+repositories {
+    jcenter()
+}
+
+mainClassName = "br.com.byamada.VanillaKafka"
+
+dependencies {
+    compile group: 'org.apache.kafka', name: 'kafka-clients', version: '2.5.0'
+}

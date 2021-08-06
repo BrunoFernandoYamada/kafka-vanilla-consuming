@@ -1,0 +1,2 @@
+br/com/byamada/VanillaKafka.java
+ br.com.byamada.VanillaKafka
